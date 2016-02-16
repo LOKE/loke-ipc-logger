@@ -1,6 +1,6 @@
 {
   "name": "loke-ipc-logger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Logger module for LOKE-IPC",
   "main": "lib/index.js",
   "scripts": {
